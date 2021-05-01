@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(0,155,255,1);
+    font-size: 2rem;
+    font-weight: bolder;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+}
+table{
+    margin-bottom: 40px;
+}
+td{
+    text-align: center;
+    color: black;
+    background-color: rgba(255,120,60,1);
+    padding: 10px;
+    border-radius: 10px;
+}
